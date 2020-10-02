@@ -78,7 +78,7 @@ modules. (Use command-line arguments).
 - Write a Servlet page to display the current date of the server (1).
 - Write a JSP page to display student information(2).
 
-
-
+## [Online Banking System](/Online Banking System)
+  A project using JSP, Servlets and JDBC. JSP is used for only viewing things. Servlets are used for processing, basically business logic is written here. A simple java class which acts as DAO(Data Access Object) is used to perform operations on MySQL using JDBC.
 
 

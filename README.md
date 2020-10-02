@@ -1,5 +1,5 @@
 # JAVA
-This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG-238) and a project on JSP and Servlets. Non-UPESites can practice questions related to Java and refer to solutions.
+This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG-238) and a project using JSP, Servlets & JDBC. Non-UPESites can practice questions related to Java and refer to solutions.
 
 # Installation
 - Installation of JDK.
@@ -16,6 +16,9 @@ This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG
 
 # What's Included
 
+## [Online-Banking-System](/Online-Banking-System)
+  A project using JSP, Servlets and JDBC. JSP is used for only viewing things. Servlets are used for processing, basically business logic is written here. A simple java class which acts as DAO(Data Access Object) is used to perform operations on MySQL using JDBC.
+  
 ## OOPS lab (UPES CSEG-238)
 
 ### [Basic-I](/Basic)
@@ -39,6 +42,3 @@ This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG
 ### [JDBC](/JDBC)
 
 ### [JSP-and-Servlets](/JSP-and-Servlets)
-
-## [Online-Banking-System](/Online-Banking-System)
-  A project using JSP, Servlets and JDBC. JSP is used for only viewing things. Servlets are used for processing, basically business logic is written here. A simple java class which acts as DAO(Data Access Object) is used to perform operations on MySQL using JDBC.

@@ -30,3 +30,17 @@ This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG
 - Write a program in Java to create a Player class. Inherit the classes Cricket _Player, Football _Player and Hockey_ Player from Player class.
 - Write a class Worker and derive classes DailyWorker and SalariedWorker from it. Every worker has a name and a salary rate. Write method ComPay (int hours) to compute the week pay of every worker. A Daily Worker is paid on the basis of the number of days he/she works. The Salaried Worker gets paid the wage for 40 hours a week no matter what the actual hours are. Test this program to calculate the pay of workers. You are expected to use the concept of polymorphism to write this program.
 - Design a class employee of an organization. An employee has a name, empid, and salary. Write the default constructor, a constructor with parameters (name, empid, and salary) and methods to return name and salary. Also write a method increaseSalary that raises the employee’s salary by a certain user specified percentage. Derive a subclass Manager from employee. Supply a test program that uses these classes and methods.
+
+### [Interface](/Interface)
+
+- Write a program to create an interface named test. In this interface the member function is square. Implement this interface in arithmetic class. Create one new class called ToTestInt. In this class use the object of arithmetic class.
+- Write a program to create interface A with two methods meth1 and meth2. Implement this interface in another class named MyClass.
+- Write a program to implement multiple and multilevel inheritance using Interface.
+- Write a program to create an Interface having two methods division and modules. Create a class, which overrides these methods.
+
+### [Packages](/Packages)
+
+- Write a Java program to implement the concept of importing classes from user defined packages and created packages.
+- Write a program to make a package Balance. This has an Account class with Display_Balance method. Import Balance package in another program to access Display_Balance method of Account class.
+- Write a program that creates a package calculation. Add addition, subtraction, division and multiplication classes in it. Write another Test class to import and use the above package.
+

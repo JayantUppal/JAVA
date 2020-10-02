@@ -46,3 +46,39 @@ This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG
 - Write a program to make a package Balance. This has an Account class with Display_Balance method. Import Balance package in another program to access Display_Balance method of Account class.
 - Write a program that creates a package calculation. Add addition, subtraction, division and multiplication classes in it. Write another Test class to import and use the above package.
 
+### [Exceptions](/Exceptions)
+
+- Write a program in Java to display the names and roll numbers of students. Initialize respective array variables for 10 students. Handle ArrayIndexOutOfBoundsExeption, so that any such problem doesn’t cause illegal termination of the program.
+- Write a Java program to enable the user to handle any chance of divide by zero exception.
+- Create an exception class, which throws an exception if the operand is non-numeric in calculating
+modules. (Use command-line arguments).
+- Write a java program to throw an exception for employee details - If an employee's name is a number, a name exception must be thrown, If an employee's age is greater than 50, an age exception must be thrown, Or else an object must be created for the entered employee details
+
+### [Threads](/Threads)
+
+- Write a program to implement the concept of threading by extending Thread Class.
+- Write a program to implement the concept of threading by implementing Runnable interface.
+- Write a program for generating 2 threads, one for printing even numbers and the other for printing odd numbers.
+- Write a Java program that implements multithreading among 3 threads. Use  sleep() and join() methods in this program and show appropriate output.
+- Write a Java program that shows multithreading between three threads. Set different priorities to each thread and show output.
+
+### [String-Handling-and-Wrapper-Class](/String-Handling-and-Wrapper-Class)
+
+- Write Java program using the following string methods - String concat(String str), boolean equals(Object anObject), boolean equalsIgnoreCase(String anotherString), String toUpperCase(), char charAt(int index), int compareTo(String anotherString)
+- Write Java program using the following string methods - int hashCode(), String trim(), String intern(), int length(), String replace(char oldChar, char newChar), String substring(int beginIndex, int endIndex)
+- Write a Java code that converts int to Integer, converts Integer to String, converts String to int, converts int to String, converts String to Integer convert Integer to int.
+- Write a Java code that converts a float to Float, converts Float to String, converts String to float, converts float to String, converts String to Float, converts Float to float.
+
+### [JDBC](/JDBC)
+
+- Create a database table to store the records of employees in a company. Use the getConnection function to connect the database. The statement object uses executeUpdate function to create a table. Create a database of employees of the company in mysql and then use a java program to access the database for inserting information of employees in the database. The SQL statement can be used to view the details of the data of employees in the database.
+
+### [JSP-and-Servlets](/JSP-and-Servlets)
+
+- Write a Servlet page to display the current date of the server (1).
+- Write a JSP page to display student information(2).
+
+
+
+
+

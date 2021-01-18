@@ -21,7 +21,7 @@ This repository contains solutions to all lab experiments of OOPS lab (UPES CSEG
   
 ## OOPS lab (UPES CSEG-238)
 
-### [Basic-I](/Basic)
+### [Basic-I](/Basic-I)
 
 ### [Basic-II](/Basic-II)
   
